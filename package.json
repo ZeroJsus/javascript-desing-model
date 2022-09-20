@@ -1,0 +1,20 @@
+{
+  "name": "javascript-desing-model",
+  "version": "1.0.0",
+  "description": "javascript code for desing model",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroJsus/javascript-desing-model.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeroJsus/javascript-desing-model/issues"
+  },
+  "homepage": "https://github.com/ZeroJsus/javascript-desing-model#readme"
+}
