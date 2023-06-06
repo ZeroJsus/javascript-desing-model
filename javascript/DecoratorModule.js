@@ -1,3 +1,10 @@
+/*
+ * @Description: insert description
+ * @Author: yangrongxin
+ * @Date: 2022-09-20 22:15:27
+ * @LastEditors: yangrongxin
+ * @LastEditTime: 2023-06-06 21:37:45
+ */
 //车辆vehicle构造函数
 function vehicle(vehicleType){
 	//默认值
@@ -18,7 +25,7 @@ truck.setModel = function(modelName){
 	this.model = modelName;
 };
 
-truck.setC=olor = function(color){
+truck.setColor = function(color){
 	this.color= color;
 }
 
